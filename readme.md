@@ -1,4 +1,5 @@
 # ENEL 667 Project Modelling
+Note: the Input Data folder has been ignored to protect the privacy of Cardrona Alpine Resorts power consumption
 # Installation
 Install requirements: `pip install -r requirements.txt`
 # Calculate load, generation and storage requirements
